@@ -7,10 +7,12 @@ using Hyrule.Data;
 
 namespace Hyrule.DemosData
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
-        {            
+        public static void Main(string[] args)
+        {
+            var demo1 = new DemosSQLHelper();
+            demo1.StartDemo();
         }
     }
 }

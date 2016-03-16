@@ -1,0 +1,8 @@
+C:\Users\hprez\Documents\GitHub\Hyrule\Hyrule\Hyrule.DemosData\bin\Debug\Hyrule.DemosData.exe.config
+C:\Users\hprez\Documents\GitHub\Hyrule\Hyrule\Hyrule.DemosData\bin\Debug\Hyrule.DemosData.exe
+C:\Users\hprez\Documents\GitHub\Hyrule\Hyrule\Hyrule.DemosData\bin\Debug\Hyrule.DemosData.pdb
+C:\Users\hprez\Documents\GitHub\Hyrule\Hyrule\Hyrule.DemosData\bin\Debug\Hyrule.Data.dll
+C:\Users\hprez\Documents\GitHub\Hyrule\Hyrule\Hyrule.DemosData\bin\Debug\Hyrule.Data.pdb
+C:\Users\hprez\Documents\GitHub\Hyrule\Hyrule\Hyrule.DemosData\obj\Debug\Hyrule.DemosData.csprojResolveAssemblyReference.cache
+C:\Users\hprez\Documents\GitHub\Hyrule\Hyrule\Hyrule.DemosData\obj\Debug\Hyrule.DemosData.exe
+C:\Users\hprez\Documents\GitHub\Hyrule\Hyrule\Hyrule.DemosData\obj\Debug\Hyrule.DemosData.pdb

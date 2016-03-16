@@ -1,2 +1,7 @@
 C:\Users\hprez\Documents\Visual Studio 2015\Projects\WaterJetTest\Hyrule\Hyrule.Data\bin\Debug\Hyrule.Data.exe.config
-C:\Users\hprez\Documents\GitHub\Hyrule\Hyrule\Hyrule.Data\bin\Debug\Hyrule.Data.exe.config
+C:\Users\hprez\Documents\GitHub\Hyrule\Hyrule\Hyrule.Data\obj\Debug\Hyrule.Data.csprojResolveAssemblyReference.cache
+C:\Users\hprez\Documents\GitHub\Hyrule\Hyrule\Hyrule.Data\bin\Debug\Hyrule.Data.dll.config
+C:\Users\hprez\Documents\GitHub\Hyrule\Hyrule\Hyrule.Data\bin\Debug\Hyrule.Data.dll
+C:\Users\hprez\Documents\GitHub\Hyrule\Hyrule\Hyrule.Data\bin\Debug\Hyrule.Data.pdb
+C:\Users\hprez\Documents\GitHub\Hyrule\Hyrule\Hyrule.Data\obj\Debug\Hyrule.Data.dll
+C:\Users\hprez\Documents\GitHub\Hyrule\Hyrule\Hyrule.Data\obj\Debug\Hyrule.Data.pdb

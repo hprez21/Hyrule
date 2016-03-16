@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hyrule.Data", "Hyrule.Data\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hyrule.DemosData", "Hyrule.DemosData\Hyrule.DemosData.csproj", "{B5AA0316-AE54-49E6-85BB-9DDB1EB02857}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hyrule.Comun", "Hyrule.Comun\Hyrule.Comun.csproj", "{CA4DEAF2-24B6-4DDF-A4EB-00D2E3DD0C47}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{B5AA0316-AE54-49E6-85BB-9DDB1EB02857}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B5AA0316-AE54-49E6-85BB-9DDB1EB02857}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B5AA0316-AE54-49E6-85BB-9DDB1EB02857}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA4DEAF2-24B6-4DDF-A4EB-00D2E3DD0C47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA4DEAF2-24B6-4DDF-A4EB-00D2E3DD0C47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA4DEAF2-24B6-4DDF-A4EB-00D2E3DD0C47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA4DEAF2-24B6-4DDF-A4EB-00D2E3DD0C47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
