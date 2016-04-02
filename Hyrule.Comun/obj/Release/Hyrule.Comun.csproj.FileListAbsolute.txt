@@ -1,0 +1,5 @@
+C:\Users\hprez\Documents\GitHub\Hyrule\Hyrule\Hyrule.Comun\bin\Release\Hyrule.Comun.dll
+C:\Users\hprez\Documents\GitHub\Hyrule\Hyrule\Hyrule.Comun\bin\Release\Hyrule.Comun.pdb
+C:\Users\hprez\Documents\GitHub\Hyrule\Hyrule\Hyrule.Comun\obj\Release\Hyrule.Comun.csprojResolveAssemblyReference.cache
+C:\Users\hprez\Documents\GitHub\Hyrule\Hyrule\Hyrule.Comun\obj\Release\Hyrule.Comun.dll
+C:\Users\hprez\Documents\GitHub\Hyrule\Hyrule\Hyrule.Comun\obj\Release\Hyrule.Comun.pdb

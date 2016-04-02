@@ -1,0 +1,6 @@
+C:\Users\hprez\Documents\GitHub\Hyrule\Hyrule\Hyrule.Data\bin\Release\Hyrule.Data.dll.config
+C:\Users\hprez\Documents\GitHub\Hyrule\Hyrule\Hyrule.Data\bin\Release\Hyrule.Data.dll
+C:\Users\hprez\Documents\GitHub\Hyrule\Hyrule\Hyrule.Data\bin\Release\Hyrule.Data.pdb
+C:\Users\hprez\Documents\GitHub\Hyrule\Hyrule\Hyrule.Data\obj\Release\Hyrule.Data.csprojResolveAssemblyReference.cache
+C:\Users\hprez\Documents\GitHub\Hyrule\Hyrule\Hyrule.Data\obj\Release\Hyrule.Data.dll
+C:\Users\hprez\Documents\GitHub\Hyrule\Hyrule\Hyrule.Data\obj\Release\Hyrule.Data.pdb
